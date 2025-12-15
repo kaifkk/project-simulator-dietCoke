@@ -1,6 +1,5 @@
 # Implemented Features
-## T-3: Reset Password
-This task involves creating a login form component with email and passw
-ord fields, including validation and error handling.
-**Status: Implemented**
+## T-4: Generate downloadable receipts after purchase
+This task allows user to generate and download receipts after placing an oder.
+**Status: in progress**
 
