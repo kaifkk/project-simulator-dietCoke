@@ -1,3 +1,5 @@
-## T-1: Sales tracking and revenue analytics
- "This task involves to track sales and revenue analytics for admin and seller"
-**Status: Implemented**"
+# Implemented Features
+## T-4: Generate downloadable receipts after purchase
+This task allows user to generate and download receipts after placing an oder.
+**Status: in progress**
+
